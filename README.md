@@ -1,2 +1,2 @@
 # cProjectTesting
-Some program that have some formula based Question
+Some program that have some formula based Questions
